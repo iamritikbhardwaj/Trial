@@ -1,2 +1,2 @@
 # Trial
-just leatning things
+just learning things
